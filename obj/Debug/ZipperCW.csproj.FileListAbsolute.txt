@@ -1,0 +1,13 @@
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\ZipperCW.exe.config
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\ZipperCW.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\ZipperCW.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.ZipperForm.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.Properties.Resources.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.CopyComplete

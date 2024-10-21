@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|c:\\users\\tuf gaming\\onedrive - \u043D\u0438\u0442\u0443 \u043C\u0438\u0441\u0438\u0441\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0443\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u043C\u0430\u0448\u0430 \u0433\u043B\\6\\zippercw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|solutionrelative:huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A157BABD-E6B4-42A7-9657-0191650E9A76}|ZipperCW.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Huffman.cs",
+              "RelativeDocumentMoniker": "Huffman.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Huffman.cs",
+              "RelativeToolTip": "Huffman.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T10:40:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T12:41:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\OneDrive - \u041D\u0418\u0422\u0423 \u041C\u0418\u0421\u0438\u0421\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0423\u0447\u0435\u0431\u0430\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F (2)\\\u041C\u0430\u0448\u0430 \u0413\u043B\\6\\ZipperCW\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-28T19:07:00.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

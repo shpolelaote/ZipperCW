@@ -10,4 +10,4 @@ C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба
 C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.pdb
 C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\Newtonsoft.Json.dll
 C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\bin\Debug\Newtonsoft.Json.xml
-C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.CopyComplete
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Маша Гл\6\ZipperCW\obj\Debug\ZipperCW.csproj.Up2Date
